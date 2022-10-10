@@ -1,0 +1,28 @@
+body {
+  background: lightgray;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  margin: 100px;
+}
+h2 {
+  width: 400px;
+  font-weight: bolder;
+  margin: auto;
+  padding-top: 20px;
+  line-height: 2;
+}
+p {
+  padding-top: 20px;
+  width: 400px;
+  margin: auto;
+  line-height: 2;
+  font-family: 'Outfit', sans-serif;
+  color: lightgray;
+
+}
+
+.Background {
+  background-color:White;
+  padding: 100px;
+
+}
